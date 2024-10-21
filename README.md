@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh1417" alt="prathamesh1417" /></a> </p>
 
 
-<img align="right" height="150" src="https://64.media.tumblr.com/6708cfedc28e51f41995e6c95f8e398b/47426d5d2ffea430-09/s540x810/cf3b8d000e59eb1d168d30d10b5bf4c9b971c983.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif"  />
 
 - 🔭 I have Contributed my work Towards [Full Stack Blog Application](https://techblog16.netlify.app/)
 
